@@ -1,8 +1,8 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.winjit.flutter_plugin_example">
+    package="com.ajinkya.native_button_view">
     <uses-permission android:name="android.permission.CAMERA"/>
    <application
-        android:label="flutter_plugin_example"
+        android:label="native_button_view"
         android:icon="@mipmap/ic_launcher">
         <activity
             android:name=".MainActivity"

@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'dart:async';
 
 import 'package:flutter/services.dart';
-import 'package:flutter_plugin/flutter_plugin.dart';
+import 'package:flutter_plugin/native_button_view.dart';
 
 void main() => runApp(
     MaterialApp(debugShowCheckedModeBanner: false, home: TextViewExample()));

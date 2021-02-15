@@ -1,4 +1,4 @@
-package com.winjit.flutter_plugin_example
+package com.ajinkya.native_button_view
 
 import io.flutter.embedding.android.FlutterActivity
 

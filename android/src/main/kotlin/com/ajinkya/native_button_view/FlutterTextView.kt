@@ -1,4 +1,4 @@
-package com.winjit.flutter_plugin
+package com.ajinkya.native_button_view
 
 import android.content.Context
 import android.view.View

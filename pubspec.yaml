@@ -1,11 +1,10 @@
-name: native_buttonView
+name: native_button_view
 description: A new Flutter plugin for native button UI.
 version: 0.0.1
-author: ajinkya446@gmail.com
-homepage: 
+homepage: https://github.com/ajinkya446/Flutter-native-buttonUI.git
 
 environment:
-  sdk: ">=2.7.0 <3.0.0"
+  sdk: ">=2.12.0 <3.0.0"
   flutter: ">=1.20.0"
 
 dependencies:
@@ -28,7 +27,7 @@ flutter:
   plugin:
     platforms:
       android:
-        package: com.winjit.flutter_plugin
+        package: com.ajinkya.native_button_view
         pluginClass: FlutterPlugin
       ios:
         pluginClass: FlutterPlugin

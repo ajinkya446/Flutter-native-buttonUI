@@ -1,4 +1,4 @@
-group 'com.winjit.flutter_plugin'
+group 'com.ajinkya.native_button_view'
 version '1.0-SNAPSHOT'
 
 buildscript {

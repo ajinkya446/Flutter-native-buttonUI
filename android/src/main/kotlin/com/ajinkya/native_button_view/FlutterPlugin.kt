@@ -1,4 +1,4 @@
-package com.winjit.flutter_plugin
+package com.ajinkya.native_button_view
 
 import android.hardware.camera2.CameraAccessException
 import android.hardware.camera2.CameraCharacteristics
